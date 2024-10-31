@@ -1,0 +1,17 @@
+.alert{
+    display: flex;
+    justify-content: space-around;
+}
+.dropdown{
+    margin: 10px 0;
+}
+.ActorForm{
+    margin-left: 50px;
+}
+.ActorCheckBox{
+    display: flex;
+}
+.ActorNew{
+    display: flex;
+    gap: 5px;
+}

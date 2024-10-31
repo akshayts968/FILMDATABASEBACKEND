@@ -1,0 +1,17 @@
+.Home{
+    width: 100vw;
+    height: 100vh;
+    background-color: black;
+    overflow: scroll;
+    scrollbar-width: none;
+}
+.CardGRP{
+    display: flex;
+    gap: 10px;
+    margin: 50px;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.CardGRP .card{
+    width: 25%;
+}
